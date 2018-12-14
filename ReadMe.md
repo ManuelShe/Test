@@ -5,14 +5,14 @@
 * Ein Freiwilliger, Neun weitere Versuchspersonen
 
 ## Was passiert?
-Der/die Zauberkünstler(in), legt Karten von 1 (gilt als Ass) bis 9 auf dem Tisch vor sich, damit das Publikum einen Überblick bekommt. Unter den Karten sind drei unterschiedliche Farben: Herz, Karo und Pik. Eine/Ein Freiwillige(r) wird ernannt, welche(r) nach vorne kommt. Aus dem Publikum erhalten 9 Personen verdeckt und zufällig die neun Karten.
+Der/Die Zauberkünstler(in), legt Karten von 1 (gilt als Ass) bis 9 auf dem Tisch vor sich, damit das Publikum einen Überblick bekommt. Unter den Karten sind drei unterschiedliche Farben: Herz, Karo und Pik. Eine/Ein Freiwillige(r) wird ernannt, welche(r) nach vorne kommt. Aus dem Publikum erhalten 9 Personen verdeckt und zufällig die neun Karten.
 
 Nun wird zufällig eine Zahl durch die/den Freiwillige(n) wie folgt bestimmt:
 Die/Der Freiwillige bennent zunächst eine Reihenfolge der Farben, beipsielsweise: Pik, Herz, Karo.
 
-1. Alle mit den Farben (in diesem Fall) **Pik** stehen auf. Die/Der Freiwillige bennent einen der aufgestandenen, der ihr/ihm dann die Zahl verrät (z.B. 7).
-2. Alle mit den Farben (in diesem Fall) **Herz** stehen auf. Die/Der Freiwillige bennent einen der aufgestandenen, der ihr/ihm dann die Zahl verrät (z.B. 5).
-3. Alle mit den Farben (in diesem Fall) **Karo** stehen auf. Die/Der Freiwillige bennent einen der aufgestandenen, der ihr/ihm dann die Zahl verrät (z.B. 3).
+1. Alle mit den Farben (in diesem Fall) **Pik** stehen auf. Die/Der Freiwillige bennent einen der Aufgestandenen, der ihr/ihm dann die Zahl verrät (z.B. 7).
+2. Alle mit den Farben (in diesem Fall) **Herz** stehen auf. Die/Der Freiwillige bennent einen der Aufgestandenen, der ihr/ihm dann die Zahl verrät (z.B. 5).
+3. Alle mit den Farben (in diesem Fall) **Karo** stehen auf. Die/Der Freiwillige bennent einen der Aufgestandenen, der ihr/ihm dann die Zahl verrät (z.B. 3).
 
 Diese drei Zahlen werden zu einer Zahl zusammengefügt, nach der Reihenfolge in der die Personen aufgerufen wurden und auf einem Umschlag festgehalten werden. In unserem Beispiel also 753.
 Dieser Vorgang soll sich weitere zwei male Wiederholen (einmal genannte Personen sollten nicht wieder genommen werden, jeder sollte dran kommen). Nun soll die Summe der drei Zahlen auf dem Umschlag errechnet werden.
